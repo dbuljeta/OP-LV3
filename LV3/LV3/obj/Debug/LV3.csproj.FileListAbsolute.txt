@@ -1,0 +1,18 @@
+c:\users\daniel\documents\visual studio 2015\Projects\LV3\LV3\bin\Debug\LV3.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\LV3\LV3\bin\Debug\LV3.exe
+c:\users\daniel\documents\visual studio 2015\Projects\LV3\LV3\bin\Debug\LV3.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\LV3\LV3\obj\Debug\LV3.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\LV3\LV3\obj\Debug\LV3.Form1.resources
+c:\users\daniel\documents\visual studio 2015\Projects\LV3\LV3\obj\Debug\LV3.Properties.Resources.resources
+c:\users\daniel\documents\visual studio 2015\Projects\LV3\LV3\obj\Debug\LV3.csproj.GenerateResource.Cache
+c:\users\daniel\documents\visual studio 2015\Projects\LV3\LV3\obj\Debug\LV3.exe
+c:\users\daniel\documents\visual studio 2015\Projects\LV3\LV3\obj\Debug\LV3.pdb
+C:\Users\daniel\Desktop\lv3op\LV3\LV3\bin\Debug\LV3.exe.config
+C:\Users\daniel\Desktop\lv3op\LV3\LV3\obj\Debug\LV3.exe
+C:\Users\daniel\Desktop\lv3op\LV3\LV3\obj\Debug\LV3.pdb
+C:\Users\daniel\Desktop\lv3op\LV3\LV3\bin\Debug\LV3.exe
+C:\Users\daniel\Desktop\lv3op\LV3\LV3\bin\Debug\LV3.pdb
+C:\Users\daniel\Desktop\lv3op\LV3\LV3\obj\Debug\LV3.csprojResolveAssemblyReference.cache
+C:\Users\daniel\Desktop\lv3op\LV3\LV3\obj\Debug\LV3.Form1.resources
+C:\Users\daniel\Desktop\lv3op\LV3\LV3\obj\Debug\LV3.Properties.Resources.resources
+C:\Users\daniel\Desktop\lv3op\LV3\LV3\obj\Debug\LV3.csproj.GenerateResource.Cache
